@@ -50,7 +50,7 @@ cd ai-innovation-lifestyle-suite
 Create a `.env` file in the project root:
 ```env
 AUTH_TOKEN=your_secret_token_here
-MY_NUMBER=919101284785
+MY_NUMBER=91xxxxxxxxxx
 ```
 
 ### 3. Install Dependencies
