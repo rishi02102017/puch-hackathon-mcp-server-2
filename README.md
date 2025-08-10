@@ -1,4 +1,8 @@
-# AI Innovation & Lifestyle Suite - MCP Server
+<h1 align="center"> AI Innovation & Lifestyle Suite - MCP Server</h1>
+
+<p align="center">
+  <img src="puch_ai_banner.jpeg" alt="Banner image" width="500"/>
+</p>
 
 A cutting-edge Model Context Protocol (MCP) server that provides AI-powered innovation and lifestyle tools for Puch AI. This suite offers 10 advanced tools covering crypto intelligence, startup building, content monetization, fashion trends, food innovation, NFTs, social media trends, influencer matching, dating optimization, and travel curation.
 
