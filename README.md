@@ -148,8 +148,8 @@ Curate travel experiences and predict trending destinations.
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `AUTH_TOKEN` | Secret token for authentication | `puch_hackathon_2025_jyotish` |
-| `MY_NUMBER` | Phone number in format {country_code}{number} | `919101284785` |
+| `AUTH_TOKEN` | Secret token for authentication | `puch_hackathon_xxxx_xxxxxxx` |
+| `MY_NUMBER` | Phone number in format {country_code}{number} | `91xxxxxxxxxx` |
 
 ## 📝 API Endpoints
 
